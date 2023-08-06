@@ -2,9 +2,8 @@
 
 
 
-a0473eb---------+-------------------------------------------|
-a0473eb source  | git:https://gitlab.common-lisp.net/pal/pal.git   |
-a0473eb commit  |   |
-a0473eb systems | pal |
-a0473eb---------+-------------------------------------------|
-
+|---------+------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/pal/pal.git |
+| commit  | a0473eb                                        |
+| systems | pal                                            |
+|---------+------------------------------------------------|
